@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Paper';
+    src: url('Paper.woff2') format('woff2'),
+        url('Paper.woff') format('woff'),
+        url('Paper.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
